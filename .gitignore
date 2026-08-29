@@ -1,0 +1,42 @@
+# symlinks to files such as seeds/external/stories.csv
+seeds/external/
+
+data/*.sqlite
+# db browser for sqlite project extension
+*.sqbpro
+
+*.egg-info
+__pycache__
+drafts
+data/
+/logs
+secrets.*
+TODOS.md
+## claude
+.claude/settings.local.json
+node_modules
+_devnotes
+# Output
+.output
+.vercel
+/.svelte-kit
+/build
+/dist
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+logs/
+*.db
+target/
+.user.yml
