@@ -1,6 +1,6 @@
 # symlinks to files such as seeds/external/stories.csv
 seeds/external/
-
+db.sqlite
 data/*.sqlite
 # db browser for sqlite project extension
 *.sqbpro
