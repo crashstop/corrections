@@ -1,0 +1,403 @@
+################
+# manual entries
+
+- crash_record_id: fcb4f6fdd4f21734a7c0693a1b400c130b2c69c5fabea9bb7bf6b6083c1f71c7a6484489a3c5617a2d8c182a4165cef30813f1838a4b6b6b4d391cbd4b53a937
+  ignore_crash_completely: true
+  notes: |
+    Driver killed in drive by shooting
+    https://www.cbsnews.com/chicago/news/3-shot-1-fatally-while-driving-in-grand-crossing/
+
+- crash_record_id: f0c38c38c4b0a0be47d90a9eb00702cde1565973ab1870db8857b1512127980d9b8c305ae6607c0550e8e895ddfd50c705f8484bce945f045dab5ecd794b0201
+  ignore_crash_completely: true
+  notes: |
+    appears to involve a shooting
+    https://abc7chicago.com/post/chicago-shooting-man-shot-killed-inside-vehicle-south-california-avenue-brighton-park-police-say/19298778/
+    
+- crash_record_id: a291b8a967e88943971cf0229e20da995a64b63113c28a7bee07ca655c8a51874a9f4189fb44b771a3029b0c60ba0cf2ce71867219f6951205f9ccc00846d073
+  ignore_crash_completely: true
+  notes: |
+    2026-05-25 11:00
+    245 N FRANCISCO AVE
+    appears to involve a shooting
+    https://abc7chicago.com/live-updates/chicago-shootings-memorial-day-weekend-18-shot-0-killed-gun-violence-city-police-department-says-live-news-update/19161101/entry/19169586/
+
+- crash_record_id: 141c56e51488c9e51ea6ee9254c2e49227d869c7c384f19330e86635d66439606cb8d55367b97043b8b3b0a86b9632c6d1bb3fab3fe9aaffc568c09dc977b3a6
+  ignore_crash_completely: true
+  notes: |
+    appears to be drive by shooting
+    https://chicago.suntimes.com/2018/1/22/18393360/man-shot-to-death-while-driving-in-west-pullman
+    A 41-year-old man was shot to death early Sunday while driving in the West Pullman neighborhood on the Far South Side.
+    He was shot multiple times in the body about 2:20 a.m. while driving in the 12900 block of South Halsted, according to Chicago Police.
+
+      2018-01-21 02:24
+      12932 S HALSTED ST west pullman
+      1 fatalities, 0 injured
+      OTHER: PHYSICAL CONDITION OF DRIVER
+
+- crash_record_id: 2fc489b3fc38cb17be4ad03d994fd6c41446c35a9d056fa7dcc09295f852b083bd801194adf658f865ee50106894a7d8357fdfa18e30185c76e5c503721533e1
+  ignore_crash_completely: true
+  notes: |
+    appears to involve a shooting
+    https://chicago.suntimes.com/2018/4/25/18329986/2-men-shot-to-death-in-west-woodlawn
+    Ronald E. Robinson, 36, and Jordasch W. Robinson, 27, were sitting in a vehicle about 2:50 a.m. in the 6600 block of South Evans when someone walked up and opened fire, according to Chicago Police and the Cook County Medical Examiner’s Office.
+
+
+
+- crash_record_id: 3ae8ebc4e410c124894896ed1ed051e16270002a0e07e4c21d2bc9df291cb614a00f99c96f194f4a0952e64856bc7e2759742785af24136e7aea73cf39da0036
+  ignore_crash_completely: true
+  notes: |
+    appears to involve a shooting
+    https://www.cbsnews.com/chicago/news/new-years-weekend-shootings/
+    Overnight Monday, another man was shot dead about 2:20 a.m. in the Avondale neighborhood on the Northwest Side, marking the first reported homicide in Chicago in 2018. About 2:20 a.m., 51-year-old Janusz C. Kolodziejczyk was driving a Toyota Camry south on Pulaski when it crashed into a fence in the 3900 block of West Cornelia, according to police and the medical examiner's office. Kolodziejczyk had suffered a gunshot wound to his back and was pronounced dead at the scene. He lived in the Schorsch Village neighborhood on the Northwest Side.
+
+
+
+- crash_record_id: 3c33ea1166d5cc4a44466df97b816ab8bda3d7559dfba90d0eec270613dbad17efdf03cbaaa228fe4d77ab53a613d78a965b95030f5fc5f9f8fde500080695ae
+  ignore_crash_completely: false
+  notes: |
+    this was caught in the incap-tally-2x-injuries-incapacitating.sql query
+
+  ignore_vehicle_ids:
+    - 781460
+    - 781461
+  ignore_person_ids:
+    - O781460
+    - O781461
+    - P178873
+
+
+- crash_record_id: ade7f1b1ef610f6f21628093b3f8a47c342fa164f9b5901919b26ce43b1eaac82ef4939a93521c27ee22b5ae2a05887f7598d959f01519af26155934fe1d67a8
+  ignore_crash_completely: true
+  notes: |
+    appears to be a shooting that led to a crash:
+    https://chicago.suntimes.com/crime/2020/1/22/21077640/tyrese-hearon-shooting-attempted-robbery-west-garfield-park-kilpatrick-gun-violence
+    2020-01-22 13:33
+    225 S KILPATRICK AVE, austin
+    OTHER
+    fatalities: 1 injured: 0
+    - ? M FATAL
+
+
+
+- crash_record_id: 0b40ee5652d6efefed27b1af3eee96c126cda22d87e76c8bb8b96ef17fef64a40671c46b184faa4005c2b0abfb38b294208b19b8f0cdfcbc840f175bf09e2653
+  notes: |-
+    appears to be a shooting in a car
+    https://www.fox32chicago.com/news/1-killed-4-wounded-thursday-in-chicago-shootings-1
+    The 39-year-old was discovered unresponsive in a vehicle about 7 p.m. in the 8500 block of South Parnell Avenue with a gunshot wound to the chest, Chicago police said. He was taken to the University of Chicago Medical Center, where he was pronounced dead.
+    2020-02-06 19:05
+    8500 S PARNELL AVE auburn gresham
+    1 fatalities, 0 injured
+    OTHER: PHYSICAL CONDITION OF DRIVER
+
+- crash_record_id:
+  88e783aa759c29c0d1ffd0e335203c2700dc7e56790b4c6faf23c4bb16643c33b29f31155124b9682bafdc2697d3b500ba671150339bf1293a9ea86fa6d4d8bf
+  notes: |
+    appears to be shooting in a car
+        2020-08-07 01:52
+    11601 S BISHOP ST west pullman
+    1 fatalities, 0 injured
+    OTHER: PHYSICAL CONDITION OF DRIVER
+    - url: https://chicago.suntimes.com/crime/2020/8/7/21358340/west-pullman-shooting-man-killed-bishop-gun-violence-police-gerard-bush
+      title: Man killed in West Pullman shooting
+      site: Chicago Sun-Times
+      date: '2020-08-07T08:54:19Z'
+      description: Gerard Bush, 35, of Gresham was found about 1:50 a.m. shot several times in a crashed vehicle in the 11500 block of South Bishop Street, Chicago police said. He died at Christ Medical Center; an autopsy ruled his death a homicide.
+
+
+- crash_record_id:
+  bbfd065d79760f1dda73be8f0f09e48788bf916ce82b8f6d173879df99475c7370c0d7310f195f61b201344d65714a1038d3c53b5d18800c05d6e8e2adf160b5
+  notes: |
+    appears to be a shooting
+    - url: https://chicago.suntimes.com/crime/2020/8/14/21368605/montrell-lee-morgan-park-shooting-man-shot-killed-108th-gun-violence
+      title: Man shot to death in Morgan Park
+      site: Chicago Sun-Times
+      date: '2020-08-14T08:46:34Z'
+      description: Montrell Lee, 27, was shot in the chest and back about 11:35 p.m. while driving through an alley in the 1000 block of West 108th Place, officials said.
+
+- crash_record_id:
+  9fff434c0c19370bf5a02402db175b53e470f28e6eb8a95122d30c5d9833012c0ad28dea173944f30a4a808c5e463e2c83cb516fe8bf7c1fbff8e6f3a50e4feb
+  notes: |
+    appears to be a shooting
+    - url: https://chicago.suntimes.com/crime/2020/8/29/21407222/englewood-shooting-man-killed-racine-gun-violence
+      title: Man fatally shot in Englewood
+      site: Chicago Sun-Times
+      date: '2020-08-30T02:35:52Z'
+      description: Anthony Lewis, 54, of Lafayette, Ind., was shot in the back about 8:20 p.m. while driving in the 6200 block of South Racine Avenue and died at the University of Chicago Medical Center. It was the fifth shooting in Englewood or West Englewood since 5 p.m. Friday.
+
+################
+# where people fatal_tally is higher than injuries_fatal value
+
+# sample sql
+
+# select *
+# from raw_people
+# where crash_record_id
+# = '18dad1010ab6b3e6017faf1ac711d98bde8c699c4a2d821ec16d331a53b75a1a0bd0f57b37f630cb5633cc04dc28f448ff0673610add4c068fcdf52ad0271666'
+# ORDER BY person_type, city, state, zipcode, sex, age, drivers_license_state, person_id, vehicle_id
+
+- crash_record_id: 0635ed2ce651b1cfcd489a6a25b422120cea73f826711755d135bd6173f6b33c87bfffce05f35801a10640465c82f67b53ed52ac3b3e584ad1e6ebd0902f3451
+  ignore_crash_completely: false
+  notes: ""
+  ignore_person_ids:
+    - O596096
+  ignore_vehicle_ids:
+    - 568215
+
+
+- crash_record_id: 18dad1010ab6b3e6017faf1ac711d98bde8c699c4a2d821ec16d331a53b75a1a0bd0f57b37f630cb5633cc04dc28f448ff0673610add4c068fcdf52ad0271666
+  ignore_crash_completely: false
+  notes: ""
+  ignore_person_ids:
+    - O724829
+    - O724830
+    - P165876
+  ignore_vehicle_ids:
+    - 689030
+    - 689040
+
+- crash_record_id: 2569f0624a72d20f09bc6d0fc4d7ab2493a83411111b14b2e4b6dc8ce73732a0bd511eaaf8d2ca25cc512cd69e965f958fabaad1c3477f4ed90ce1d6160e4534
+  ignore_crash_completely: false
+  notes: |
+    https://www.cbsnews.com/chicago/news/search-on-for-driver-who-hit-killed-woman-on-near-west-side/
+  ignore_person_ids:
+    - O888792
+    - P202999
+    - P203003
+    - P203005
+    - P203004
+    - O888793
+  ignore_vehicle_ids:
+    - 843124
+
+- crash_record_id: 478f0fe752a668fb2895f0e96eef317209789ebddc5656c7b74ec74e0d71c5535ba100b297a8db5e33eba7f5090425845d7dd92765e061d4912b7142d869697f
+  ignore_crash_completely: false
+  notes: ""
+  ignore_person_ids: [O874246]
+  ignore_vehicle_ids: [868213]
+
+- crash_record_id: 493415b03013815bbffc7c1bbe0a99af8c58c2ec81cebfb9d22702c7ca83abcde22787a61bfd8fc4e0eedd4bc18afde1a08c768328038b379839e9dc0ad9edb8
+  ignore_crash_completely: false
+  notes: "likely pedestrian and all motorists duped"
+  ignore_person_ids: [O888298, O888299, P202882]
+  ignore_vehicle_ids: [842655]
+
+- crash_record_id: 71248e69f179c3850c7b7a04bc6f0feca69dae5c15b8251ab4e9e111a9eeb5997e678c15ea2ddee587196e31dbafe2c5d442e4e7a91103f8f6b851d328d1200a
+  ignore_crash_completely: false
+  notes: "likely (fatal) pedestrian duplicated; vehicles are fine"
+  ignore_person_ids: [O511070]
+  ignore_vehicle_ids: []
+
+- crash_record_id: 7a3ae5c06a70aff149c926ee4aa07b83bd4a5b384ed1d2a29965ba469d5651262c7413991423c6363c19be9cf7cbbfe941f9e19cfeefefb237b42ad88f62d0b7
+  ignore_crash_completely: false
+  notes: "driver dupe"
+  ignore_person_ids: [O870676]
+  ignore_vehicle_ids: [826028]
+
+- crash_record_id: 935bd0771c16e2580b8fb60f9d79528556868c699698bff25698de2d2b8195274e5cd38e08544d7af3aec03e189af21d958f84dfe214c0cbfe5477dc32ed7341
+  ignore_crash_completely: false
+  notes: "all drivers, and passenger duped"
+  ignore_person_ids: [O712187, O712231, P162803]
+  ignore_vehicle_ids: [677257, 677286]
+
+- crash_record_id: 9536771b8453a589cbf9190cad3dce398276f86064fb37d004b95651f799a93f8896628455a11671ba07a77b86a4eeac5189ea5cfa7d3051438249fb568b2132
+  ignore_crash_completely: false
+  notes: ""
+  ignore_person_ids: [O571934, O571935, P128945]
+  ignore_vehicle_ids: [545429, 545430]
+
+- crash_record_id: a53e645e421506903fffab700e4aec84898100ff00665d82779b7c70cb73e81af03bb8b85238edc7df9c907abf3e1fd9165e52a3f54d962f6914404097ae4976
+  ignore_crash_completely: false
+  notes: "driver and ped duped; ped age changed from 36 to 26"
+  ignore_person_ids: [O792445, O792444]
+  ignore_vehicle_ids: [752540]
+
+- crash_record_id: c413f826b72c8c65ead7305cbfc5f668d2018a21be8d5bb6cf58969b5f602004da36dadf1e950c08b814f8f6c35f13ac8f5843c68de97c7f50a8321f9320df42
+  ignore_crash_completely: false
+  notes: "ped fatal revised to incapacitating"
+  ignore_person_ids: [O786460, O786459]
+  ignore_vehicle_ids: [746959]
+
+- crash_record_id: ceb2f8eb126f8ad7aa723aa5b98b90a62a9d1422ebbc5059ff8582c0c2b3b4a93edf7540fe91f9780bcda6670f155c152c1d314bd9fb1b249db916a0338d59b7
+  ignore_crash_completely: false
+  notes: "84yrold driver, parked veh updated to be truck"
+  ignore_person_ids: [O551015, P124175, P124174]
+  ignore_vehicle_ids: [525804]
+
+- crash_record_id: e081da9ddd8bd6267f3bf4af3eb583ac81dec41a64b63ba2d3620b60d389f0aee9224c6dca9cc041e3f7e82710081965e807bc2721cb008e69673ec2c501230a
+  ignore_crash_completely: false
+  notes: "not sure what got updated"
+  ignore_person_ids: [O766705, O766706, P175667, P175665, P175666]
+  ignore_vehicle_ids: [728252, 728254]
+
+- crash_record_id: e6b82b1f76b7cb4f9086317c868edc0fc6d96e106414468af8441282fe405cbc4f00eac0ef779241e14011c072353baf8191abbb86ad6b5a66a9811ca603088a
+  ignore_crash_completely: false
+  notes: "bmw vs harley"
+  ignore_person_ids: [O1322610, O1322611]
+  ignore_vehicle_ids: [1256268, 1256279]
+
+- crash_record_id: fb043165113cadfbc5b9e05e9eca3392bf2e75cf767d3b47ba827693375ef43ed1086ac5cb6bb80f5b4718dabeccb9e372cef3fa330f75fc7b87f111303b2cd2
+  ignore_crash_completely: false
+  notes: "m25 killed upgraded to no injury"
+  ignore_person_ids: [O1587097, O1587096, P350864]
+  ignore_vehicle_ids: [1510085, 1510081]
+
+- crash_record_id: fd513d10e664f2def020f1cacfc56e902758d2e0bd744632f5af5a3ab191d6fe6533fb01fce230e56a92334da73ab29e971624c21cfdee79f065785846cfe85f
+  ignore_crash_completely: false
+  notes: |
+    https://www.nbcchicago.com/news/local/crash-that-killed-3-women-in-morgan-park-remains-under-investigation/2195624/
+    773312 unit_no 1 vehicle does not have corresponding replacement...? so we have to use it
+    person O814537 was driver of 773312, but corresponding record O828503 is now a driver of NULL vehicle_id...?
+    So we KEEP O814537, and we keep all other 773312 vehicle_id people: P186358, P186359
+    We remove O828503, even though it's ostensibly the new driver
+
+  ignore_person_ids: [O814538, P186360, P186361, P186362, O828503 ]
+  ignore_vehicle_ids: [773316]
+
+- crash_record_id: fdc6c426e3239c342076a256fdeb23713036507188c4884ba2e735463cc4e49d5fdc25625a7e7b74a6b2db3ae7bd15fa75523701cc256acca3ce18b6d77ef10a
+  ignore_crash_completely: false
+  notes: ""
+  ignore_person_ids: [O1160021, O1160020, P260272]
+  ignore_vehicle_ids: [1100386, 1100385]
+
+- crash_record_id: fdd84df84cadb7e639b177a06068f95a6f35e367aba8eb6e8b4c4ad8d36b91bbd46d1a58ca49d674e6b74b4529fffcbfbb75ac2e5eb642203a578bf91fb66c7d
+  ignore_crash_completely: false
+  notes: ""
+  ignore_person_ids:
+    - O336008
+    - P73351
+    - O336009
+    - P73352
+    - P73353
+    - P73354
+    - P73355
+    - P73356
+
+  ignore_vehicle_ids:
+    - 324541
+    - 324542
+
+
+
+################
+# where people incap_tally is higher than injuries_incapacitating value
+
+- crash_record_id: 023f7de8d0f7e90dc072b7b88b62502f306469597481dabc2469aecc67a1026d485ba885476a3ea258a0df3cf6543b77b69cdbfabca44ab64b0fc64c00c808ef
+  ignore_crash_completely: false
+  notes: ""
+  ignore_person_ids:
+    - O754015
+    - O754018
+    - P172690
+    - P172691
+    - O754016
+    - P172686
+    - P172688
+    - P172689
+
+  ignore_vehicle_ids:
+    - 716258
+    - 716271
+    - 716261
+    - 716268
+    - 716264
+    - 716265
+
+
+
+
+#########################################
+# manual
+- crash_record_id: d3c723f453b3319348065ff841f12ce994b136b1e8bcbeef2a4b9657e7e1adb28e4f4015c9efe8970adefa494a84b168e5c4469ac2ae47b48a2b1946d786a082
+  notes: |
+    https://chi.streetsblog.org/2022/03/03/cisco-engineer-gerardo-marciales-41-fatally-struck-while-crossing-dlsd-on-a-divvy-bike
+  ignore_crash_completely: false
+  ignore_person_ids:
+    - O1290137
+
+
+# all animal records
+- crash_record_id: 0b80d0a0b3e089d5a57c0ad0a4aecb749e173a3fd456861572ea5fa3c3054e627ee785bf94317617e60b41d4ecea3071c872e66db896b1d74f5dc18a535c6136
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 0085d7d99633a88eb9311999bf918e20fb755e070afc6c9d86880035e1bbca3742c9c0b77ccc2611d971b4083b9e618b62abe6d92d52493f8cb5e1fd7103e659
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 3191fff8377eb85ea28ff21ea2c75a784af8f7d751c80e92c528c268f1040d9c6b946088c679842b734d63c063cbfc881ea6025301f9f42e488bcbbe12fb260b
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 3a04d10ad44658cd0fa3221d1a5978e91ebe958790b999a01f15f2c091ff34e9978dc1423b0b730b4c1228549da437b5a18be152d7bda6fe285754a8306b3f05
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 2bda839d8f659fa3f2760ce4d7ba3405ef9c482a00805f3227fe9c86394315186be6526fe16e0614ec24355e298977e01ba91a7a191950c92bc13a0fb0dc640b
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 3f5a964559983bbf450fd0d0eaa2685788f8aacb72ce65a964519e410fa10865ace374607486d88c25017826df3cebbad640c5340905f36bba68e3a31efad78d
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 2c1d1a6e58a5886562a9d62c38d764d4884b62ac6f38ec51646493f93f40b1af90d79999fe9c121aff6863eb65eb26d6d4032a235111d91c8d680a87557cba0c
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: e891f21cf0fac3ef14da281b5184a6d79e811c772ca916ee4a354aba164a3ac8e2230ae566078ddf98fdfdb73fe349b5c01217174f023653cea512cea55d065f
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 69618bea78c1793bf238fec00dc110e4146e69a7f738df31770c952e3ad6099081d5a6c090527dfa19e323552c478732b94f7e88fe3925abb2d0751f37fa441f
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 6c86ffbce62415d70aa0445aafc50eb105f5bf9dee05fd8b05ddbfc2db442418451ef7e00a843fd8aaf7de201559e124063fb81ab9b41f14b3905eb9a7846d39
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 35c39d44e13bd0c094203d4c803c109eaa04ae1b79d5f8cd70293223c45e47ba43f12ac555e7e1cd39e429eea2cfff0128e1e4e0320453ffd913b320cc0f537c
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 1e773fa3f69c5c0cb18c2835a57f1dd31622132512938b57f08ddf402fc1a9296983b8b3a44d5b0a050908f867ad8b998948cb77c1c0ed406a81f9350e26e495
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 883baed715e2a83e87c9e07dad790f184d100b364832135aa9116e65878c3d4fdb8906052594f6104b605184c6d013a596b97a47a4270535fdc2741a14c6be47
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: b47f5d4f6697ef52c232c44037533030b37d16e30023398eb21bdd6f010e3a968ced5649a7b652b53ee1009c52b73acc6cc5d612562b0d5d713e8febde6c5883
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 47cfe6d1091e826051d7a82680cdc099aa5bcf2c245f84b10752bfab5d3bef351897fd6b88788e7d18e5b53ed33745c15dd954102434f0a197b2db858855a20f
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 6cd7273488efca42c3609dd0ba344ed1bb7f282f930c3055b82abc4551a2fccb38799a29e6ee493761645b0050492935e63d4ba5988852e7ad667081e98f2cd4
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 8599c4135ba8d6dd5d8c916569ef521abc72122410c8b277464e8a0b025c8bdb7b885cbf02b1502a05214d6c0b8e9c5b50e98171f26f983a07091ab42774864e
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 66a8e07102d210ff9491bd9f56e26b920cacc5e01b234974dec783e3722db0420840f3a3db5a2c8825b1cf5ba73312b713d95af8805a3716e37b1f1a00392fdd
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 407c52a5d3b4f7215b3f2c2e43be799e102f64c62a7121f0986adee3ca2c863978ae390bb3796fe56a05c0c8b9a053a1408bd374a18780dc1c26a4c230b16745
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: 9788921ad72ee86d81325fa5393dbddb75b633cbd490910330abc1f07b809742ebfafc48ed7676e4b291298f362c31b0cef85d962fd184f4fea0496fe75be3df
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+- crash_record_id: b02f99b14f9efac672284aeb124698126c987287a2a6bddce65730301d71bc67db32b6a892e709f63a2925652b7706d76142b329cd103597ebb5dce109a1db89
+  ignore_crash_completely: true
+  notes: "crash_type=ANIMAL"
+
+
