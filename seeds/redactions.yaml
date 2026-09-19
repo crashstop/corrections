@@ -80,6 +80,7 @@
 
 
 - crash_record_id: 0b40ee5652d6efefed27b1af3eee96c126cda22d87e76c8bb8b96ef17fef64a40671c46b184faa4005c2b0abfb38b294208b19b8f0cdfcbc840f175bf09e2653
+  ignore_crash_completely: true
   notes: |-
     appears to be a shooting in a car
     https://www.fox32chicago.com/news/1-killed-4-wounded-thursday-in-chicago-shootings-1
@@ -89,8 +90,8 @@
     1 fatalities, 0 injured
     OTHER: PHYSICAL CONDITION OF DRIVER
 
-- crash_record_id:
-  88e783aa759c29c0d1ffd0e335203c2700dc7e56790b4c6faf23c4bb16643c33b29f31155124b9682bafdc2697d3b500ba671150339bf1293a9ea86fa6d4d8bf
+- crash_record_id: 88e783aa759c29c0d1ffd0e335203c2700dc7e56790b4c6faf23c4bb16643c33b29f31155124b9682bafdc2697d3b500ba671150339bf1293a9ea86fa6d4d8bf
+  ignore_crash_completely: true
   notes: |
     appears to be shooting in a car
         2020-08-07 01:52
@@ -104,8 +105,8 @@
       description: Gerard Bush, 35, of Gresham was found about 1:50 a.m. shot several times in a crashed vehicle in the 11500 block of South Bishop Street, Chicago police said. He died at Christ Medical Center; an autopsy ruled his death a homicide.
 
 
-- crash_record_id:
-  bbfd065d79760f1dda73be8f0f09e48788bf916ce82b8f6d173879df99475c7370c0d7310f195f61b201344d65714a1038d3c53b5d18800c05d6e8e2adf160b5
+- crash_record_id: bbfd065d79760f1dda73be8f0f09e48788bf916ce82b8f6d173879df99475c7370c0d7310f195f61b201344d65714a1038d3c53b5d18800c05d6e8e2adf160b5
+  ignore_crash_completely: true
   notes: |
     appears to be a shooting
     - url: https://chicago.suntimes.com/crime/2020/8/14/21368605/montrell-lee-morgan-park-shooting-man-shot-killed-108th-gun-violence
@@ -114,8 +115,8 @@
       date: '2020-08-14T08:46:34Z'
       description: Montrell Lee, 27, was shot in the chest and back about 11:35 p.m. while driving through an alley in the 1000 block of West 108th Place, officials said.
 
-- crash_record_id:
-  9fff434c0c19370bf5a02402db175b53e470f28e6eb8a95122d30c5d9833012c0ad28dea173944f30a4a808c5e463e2c83cb516fe8bf7c1fbff8e6f3a50e4feb
+- crash_record_id: 9fff434c0c19370bf5a02402db175b53e470f28e6eb8a95122d30c5d9833012c0ad28dea173944f30a4a808c5e463e2c83cb516fe8bf7c1fbff8e6f3a50e4feb
+  ignore_crash_completely: true
   notes: |
     appears to be a shooting
     - url: https://chicago.suntimes.com/crime/2020/8/29/21407222/englewood-shooting-man-killed-racine-gun-violence
