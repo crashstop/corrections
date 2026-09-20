@@ -16,6 +16,13 @@ crash_record_id,record_id,record_type,notes
 023f7de8d0f7e90dc072b7b88b62502f306469597481dabc2469aecc67a1026d485ba885476a3ea258a0df3cf6543b77b69cdbfabca44ab64b0fc64c00c808ef,716271,vehicle,
 0635ed2ce651b1cfcd489a6a25b422120cea73f826711755d135bd6173f6b33c87bfffce05f35801a10640465c82f67b53ed52ac3b3e584ad1e6ebd0902f3451,O596096,person,
 0635ed2ce651b1cfcd489a6a25b422120cea73f826711755d135bd6173f6b33c87bfffce05f35801a10640465c82f67b53ed52ac3b3e584ad1e6ebd0902f3451,568215,vehicle,
+0b40ee5652d6efefed27b1af3eee96c126cda22d87e76c8bb8b96ef17fef64a40671c46b184faa4005c2b0abfb38b294208b19b8f0cdfcbc840f175bf09e2653,0b40ee5652d6efefed27b1af3eee96c126cda22d87e76c8bb8b96ef17fef64a40671c46b184faa4005c2b0abfb38b294208b19b8f0cdfcbc840f175bf09e2653,crash,"appears to be a shooting in a car
+https://www.fox32chicago.com/news/1-killed-4-wounded-thursday-in-chicago-shootings-1
+The 39-year-old was discovered unresponsive in a vehicle about 7 p.m. in the 8500 block of South Parnell Avenue with a gunshot wound to the chest, Chicago police said. He was taken to the University of Chicago Medical Center, where he was pronounced dead.
+2020-02-06 19:05
+8500 S PARNELL AVE auburn gresham
+1 fatalities, 0 injured
+OTHER: PHYSICAL CONDITION OF DRIVER"
 0b80d0a0b3e089d5a57c0ad0a4aecb749e173a3fd456861572ea5fa3c3054e627ee785bf94317617e60b41d4ecea3071c872e66db896b1d74f5dc18a535c6136,0b80d0a0b3e089d5a57c0ad0a4aecb749e173a3fd456861572ea5fa3c3054e627ee785bf94317617e60b41d4ecea3071c872e66db896b1d74f5dc18a535c6136,crash,crash_type=ANIMAL
 141c56e51488c9e51ea6ee9254c2e49227d869c7c384f19330e86635d66439606cb8d55367b97043b8b3b0a86b9632c6d1bb3fab3fe9aaffc568c09dc977b3a6,141c56e51488c9e51ea6ee9254c2e49227d869c7c384f19330e86635d66439606cb8d55367b97043b8b3b0a86b9632c6d1bb3fab3fe9aaffc568c09dc977b3a6,crash,"appears to be drive by shooting
 https://chicago.suntimes.com/2018/1/22/18393360/man-shot-to-death-while-driving-in-west-pullman
@@ -32,6 +39,18 @@ He was shot multiple times in the body about 2:20 a.m. while driving in the 1290
 18dad1010ab6b3e6017faf1ac711d98bde8c699c4a2d821ec16d331a53b75a1a0bd0f57b37f630cb5633cc04dc28f448ff0673610add4c068fcdf52ad0271666,689030,vehicle,
 18dad1010ab6b3e6017faf1ac711d98bde8c699c4a2d821ec16d331a53b75a1a0bd0f57b37f630cb5633cc04dc28f448ff0673610add4c068fcdf52ad0271666,689040,vehicle,
 1e773fa3f69c5c0cb18c2835a57f1dd31622132512938b57f08ddf402fc1a9296983b8b3a44d5b0a050908f867ad8b998948cb77c1c0ed406a81f9350e26e495,1e773fa3f69c5c0cb18c2835a57f1dd31622132512938b57f08ddf402fc1a9296983b8b3a44d5b0a050908f867ad8b998948cb77c1c0ed406a81f9350e26e495,crash,crash_type=ANIMAL
+2332d6317e7d59ccc083750c09f9a07b235e90ff3911308acdbaeec58c1f483d40fe34d0b921b1d67f84437791996e362658ae541976521cb6d3cbdded971d80,2332d6317e7d59ccc083750c09f9a07b235e90ff3911308acdbaeec58c1f483d40fe34d0b921b1d67f84437791996e362658ae541976521cb6d3cbdded971d80,crash,"appears to be a shooting
+2020-05-31 20:00
+936 E 93RD ST burnside
+1 fatalities, 0 injured
+OTHER: PHYSICAL CONDITION OF DRIVER
+autosearch 2026-09-19: shooting-caused crash, homicide. Victim ID: Lenell Deandre McClain, 26 (record has unknown age/sex); shot by occupant of a dark Grand Prix, crashed in same block. No arrests. suntimes ~145 words.
+
+- url: https://chicago.suntimes.com/crime/2020/5/31/21276573/man-fatally-shot-head-driving-burnside-93rd-gun-violence-lenell-deandre-mcclain
+  title: Man fatally shot in head while driving in Burnside
+  site: chicago.suntimes.com
+  date: '2020-06-01T04:19:30Z'
+  description: He was hit several times in the head and crashed his vehicle moments later on East 93rd Street."
 2569f0624a72d20f09bc6d0fc4d7ab2493a83411111b14b2e4b6dc8ce73732a0bd511eaaf8d2ca25cc512cd69e965f958fabaad1c3477f4ed90ce1d6160e4534,O888792,person,https://www.cbsnews.com/chicago/news/search-on-for-driver-who-hit-killed-woman-on-near-west-side/
 2569f0624a72d20f09bc6d0fc4d7ab2493a83411111b14b2e4b6dc8ce73732a0bd511eaaf8d2ca25cc512cd69e965f958fabaad1c3477f4ed90ce1d6160e4534,O888793,person,https://www.cbsnews.com/chicago/news/search-on-for-driver-who-hit-killed-woman-on-near-west-side/
 2569f0624a72d20f09bc6d0fc4d7ab2493a83411111b14b2e4b6dc8ce73732a0bd511eaaf8d2ca25cc512cd69e965f958fabaad1c3477f4ed90ce1d6160e4534,P202999,person,https://www.cbsnews.com/chicago/news/search-on-for-driver-who-hit-killed-woman-on-near-west-side/
@@ -73,6 +92,26 @@ Overnight Monday, another man was shot dead about 2:20 a.m. in the Avondale neig
 7a3ae5c06a70aff149c926ee4aa07b83bd4a5b384ed1d2a29965ba469d5651262c7413991423c6363c19be9cf7cbbfe941f9e19cfeefefb237b42ad88f62d0b7,826028,vehicle,driver dupe
 8599c4135ba8d6dd5d8c916569ef521abc72122410c8b277464e8a0b025c8bdb7b885cbf02b1502a05214d6c0b8e9c5b50e98171f26f983a07091ab42774864e,8599c4135ba8d6dd5d8c916569ef521abc72122410c8b277464e8a0b025c8bdb7b885cbf02b1502a05214d6c0b8e9c5b50e98171f26f983a07091ab42774864e,crash,crash_type=ANIMAL
 883baed715e2a83e87c9e07dad790f184d100b364832135aa9116e65878c3d4fdb8906052594f6104b605184c6d013a596b97a47a4270535fdc2741a14c6be47,883baed715e2a83e87c9e07dad790f184d100b364832135aa9116e65878c3d4fdb8906052594f6104b605184c6d013a596b97a47a4270535fdc2741a14c6be47,crash,crash_type=ANIMAL
+88e783aa759c29c0d1ffd0e335203c2700dc7e56790b4c6faf23c4bb16643c33b29f31155124b9682bafdc2697d3b500ba671150339bf1293a9ea86fa6d4d8bf,88e783aa759c29c0d1ffd0e335203c2700dc7e56790b4c6faf23c4bb16643c33b29f31155124b9682bafdc2697d3b500ba671150339bf1293a9ea86fa6d4d8bf,crash,"appears to be shooting in a car
+    2020-08-07 01:52
+11601 S BISHOP ST west pullman
+1 fatalities, 0 injured
+OTHER: PHYSICAL CONDITION OF DRIVER
+- url: https://chicago.suntimes.com/crime/2020/8/7/21358340/west-pullman-shooting-man-killed-bishop-gun-violence-police-gerard-bush
+  title: Man killed in West Pullman shooting
+  site: Chicago Sun-Times
+  date: '2020-08-07T08:54:19Z'
+  description: Gerard Bush, 35, of Gresham was found about 1:50 a.m. shot several times in a crashed vehicle in the 11500 block of South Bishop Street, Chicago police said. He died at Christ Medical Center; an autopsy ruled his death a homicide."
+8f0dfec5ec09389b8bcf262ff380839c9fa1c32d65cc22a5357c06f81570af0d6b1514728c845fce7298b5966da73f42eff8750996911fdad0ef8709c2df04c4,8f0dfec5ec09389b8bcf262ff380839c9fa1c32d65cc22a5357c06f81570af0d6b1514728c845fce7298b5966da73f42eff8750996911fdad0ef8709c2df04c4,crash,"2026-09-11 00:17
+4540 S WOOD ST, new-city
+OTHER
+fatalities: 1 injured: 0
+- 50 F FATAL DRIVER
+- url: https://blockclubchicago.org/2026/09/11/city-emergency-dispatcher-fatally-shot-while-driving-in-back-of-the-yards/
+  title: City Emergency Dispatcher Fatally Shot While Driving In Back Of The Yards
+  site: Block Club Chicago
+  date: '2026-09-11T20:01:13+00:00'
+  description: Natalia Rodriguez, 50, was a police communications operator who had worked for the city's emergency management agency for a decade. No arrests have been made."
 935bd0771c16e2580b8fb60f9d79528556868c699698bff25698de2d2b8195274e5cd38e08544d7af3aec03e189af21d958f84dfe214c0cbfe5477dc32ed7341,O712187,person,"all drivers, and passenger duped"
 935bd0771c16e2580b8fb60f9d79528556868c699698bff25698de2d2b8195274e5cd38e08544d7af3aec03e189af21d958f84dfe214c0cbfe5477dc32ed7341,O712231,person,"all drivers, and passenger duped"
 935bd0771c16e2580b8fb60f9d79528556868c699698bff25698de2d2b8195274e5cd38e08544d7af3aec03e189af21d958f84dfe214c0cbfe5477dc32ed7341,P162803,person,"all drivers, and passenger duped"
@@ -84,13 +123,45 @@ Overnight Monday, another man was shot dead about 2:20 a.m. in the Avondale neig
 9536771b8453a589cbf9190cad3dce398276f86064fb37d004b95651f799a93f8896628455a11671ba07a77b86a4eeac5189ea5cfa7d3051438249fb568b2132,545429,vehicle,
 9536771b8453a589cbf9190cad3dce398276f86064fb37d004b95651f799a93f8896628455a11671ba07a77b86a4eeac5189ea5cfa7d3051438249fb568b2132,545430,vehicle,
 9788921ad72ee86d81325fa5393dbddb75b633cbd490910330abc1f07b809742ebfafc48ed7676e4b291298f362c31b0cef85d962fd184f4fea0496fe75be3df,9788921ad72ee86d81325fa5393dbddb75b633cbd490910330abc1f07b809742ebfafc48ed7676e4b291298f362c31b0cef85d962fd184f4fea0496fe75be3df,crash,crash_type=ANIMAL
-a291b8a967e88943971cf0229e20da995a64b63113c28a7bee07ca655c8a51874a9f4189fb44b771a3029b0c60ba0cf2ce71867219f6951205f9ccc00846d073,a291b8a967e88943971cf0229e20da995a64b63113c28a7bee07ca655c8a51874a9f4189fb44b771a3029b0c60ba0cf2ce71867219f6951205f9ccc00846d073,crash,"appears to involve a shooting
-https://crashcount.org/chicago/crashes/a291b8a967e88943971cf0229e20da995a64b63113c28a7bee07ca655c8a51874a9f4189fb44b771a3029b0c60ba0cf2ce71867219f6951205f9ccc00846d073"
+9fff434c0c19370bf5a02402db175b53e470f28e6eb8a95122d30c5d9833012c0ad28dea173944f30a4a808c5e463e2c83cb516fe8bf7c1fbff8e6f3a50e4feb,9fff434c0c19370bf5a02402db175b53e470f28e6eb8a95122d30c5d9833012c0ad28dea173944f30a4a808c5e463e2c83cb516fe8bf7c1fbff8e6f3a50e4feb,crash,"appears to be a shooting
+- url: https://chicago.suntimes.com/crime/2020/8/29/21407222/englewood-shooting-man-killed-racine-gun-violence
+  title: Man fatally shot in Englewood
+  site: Chicago Sun-Times
+  date: '2020-08-30T02:35:52Z'
+  description: Anthony Lewis, 54, of Lafayette, Ind., was shot in the back about 8:20 p.m. while driving in the 6200 block of South Racine Avenue and died at the University of Chicago Medical Center. It was the fifth shooting in Englewood or West Englewood since 5 p.m. Friday."
+a291b8a967e88943971cf0229e20da995a64b63113c28a7bee07ca655c8a51874a9f4189fb44b771a3029b0c60ba0cf2ce71867219f6951205f9ccc00846d073,a291b8a967e88943971cf0229e20da995a64b63113c28a7bee07ca655c8a51874a9f4189fb44b771a3029b0c60ba0cf2ce71867219f6951205f9ccc00846d073,crash,"2026-05-25 11:00
+245 N FRANCISCO AVE
+appears to involve a shooting
+https://abc7chicago.com/live-updates/chicago-shootings-memorial-day-weekend-18-shot-0-killed-gun-violence-city-police-department-says-live-news-update/19161101/entry/19169586/"
 a53e645e421506903fffab700e4aec84898100ff00665d82779b7c70cb73e81af03bb8b85238edc7df9c907abf3e1fd9165e52a3f54d962f6914404097ae4976,O792444,person,driver and ped duped; ped age changed from 36 to 26
 a53e645e421506903fffab700e4aec84898100ff00665d82779b7c70cb73e81af03bb8b85238edc7df9c907abf3e1fd9165e52a3f54d962f6914404097ae4976,O792445,person,driver and ped duped; ped age changed from 36 to 26
 a53e645e421506903fffab700e4aec84898100ff00665d82779b7c70cb73e81af03bb8b85238edc7df9c907abf3e1fd9165e52a3f54d962f6914404097ae4976,752540,vehicle,driver and ped duped; ped age changed from 36 to 26
+a5708e27edc5661fa0f26653db8e2023f680084bdfeb1bdc269e55d91360fe1e603216cacbff3ab55966d5a903c07e8eea15b6be68bbf9216bfbccfbe091bdcd,a5708e27edc5661fa0f26653db8e2023f680084bdfeb1bdc269e55d91360fe1e603216cacbff3ab55966d5a903c07e8eea15b6be68bbf9216bfbccfbe091bdcd,crash,"appears to be a shooting
+2020-06-19 22:24
+4158 W CONGRESS PKWY garfield park
+1 fatalities, 0 injured
+OTHER: NOT APPLICABLE
+autosearch 2026-09-19: shooting-caused crash, homicide. Victim ID: Almos Collum, 33, of Austin (record has unknown age); shot from a black SUV while driving, died at Stroger. No one in custody. suntimes ~110 words.
+- url: https://chicago.suntimes.com/crime/2020/6/19/21297488/almos-collum-killed-west-garfield-park-shooting-gun-violence-congress
+  title: Man killed in West Garfield Park shooting
+  site: chicago.suntimes.com
+  date: '2020-06-21T01:26:05Z'
+  description: Almos Collum, 33, was driving when someone approached his car and opened fire, striking him multiple times, authorities said."
+ade7f1b1ef610f6f21628093b3f8a47c342fa164f9b5901919b26ce43b1eaac82ef4939a93521c27ee22b5ae2a05887f7598d959f01519af26155934fe1d67a8,ade7f1b1ef610f6f21628093b3f8a47c342fa164f9b5901919b26ce43b1eaac82ef4939a93521c27ee22b5ae2a05887f7598d959f01519af26155934fe1d67a8,crash,"appears to be a shooting that led to a crash:
+https://chicago.suntimes.com/crime/2020/1/22/21077640/tyrese-hearon-shooting-attempted-robbery-west-garfield-park-kilpatrick-gun-violence
+2020-01-22 13:33
+225 S KILPATRICK AVE, austin
+OTHER
+fatalities: 1 injured: 0
+- ? M FATAL"
 b02f99b14f9efac672284aeb124698126c987287a2a6bddce65730301d71bc67db32b6a892e709f63a2925652b7706d76142b329cd103597ebb5dce109a1db89,b02f99b14f9efac672284aeb124698126c987287a2a6bddce65730301d71bc67db32b6a892e709f63a2925652b7706d76142b329cd103597ebb5dce109a1db89,crash,crash_type=ANIMAL
 b47f5d4f6697ef52c232c44037533030b37d16e30023398eb21bdd6f010e3a968ced5649a7b652b53ee1009c52b73acc6cc5d612562b0d5d713e8febde6c5883,b47f5d4f6697ef52c232c44037533030b37d16e30023398eb21bdd6f010e3a968ced5649a7b652b53ee1009c52b73acc6cc5d612562b0d5d713e8febde6c5883,crash,crash_type=ANIMAL
+bbfd065d79760f1dda73be8f0f09e48788bf916ce82b8f6d173879df99475c7370c0d7310f195f61b201344d65714a1038d3c53b5d18800c05d6e8e2adf160b5,bbfd065d79760f1dda73be8f0f09e48788bf916ce82b8f6d173879df99475c7370c0d7310f195f61b201344d65714a1038d3c53b5d18800c05d6e8e2adf160b5,crash,"appears to be a shooting
+- url: https://chicago.suntimes.com/crime/2020/8/14/21368605/montrell-lee-morgan-park-shooting-man-shot-killed-108th-gun-violence
+  title: Man shot to death in Morgan Park
+  site: Chicago Sun-Times
+  date: '2020-08-14T08:46:34Z'
+  description: Montrell Lee, 27, was shot in the chest and back about 11:35 p.m. while driving through an alley in the 1000 block of West 108th Place, officials said."
 c413f826b72c8c65ead7305cbfc5f668d2018a21be8d5bb6cf58969b5f602004da36dadf1e950c08b814f8f6c35f13ac8f5843c68de97c7f50a8321f9320df42,O786459,person,ped fatal revised to incapacitating
 c413f826b72c8c65ead7305cbfc5f668d2018a21be8d5bb6cf58969b5f602004da36dadf1e950c08b814f8f6c35f13ac8f5843c68de97c7f50a8321f9320df42,O786460,person,ped fatal revised to incapacitating
 c413f826b72c8c65ead7305cbfc5f668d2018a21be8d5bb6cf58969b5f602004da36dadf1e950c08b814f8f6c35f13ac8f5843c68de97c7f50a8321f9320df42,746959,vehicle,ped fatal revised to incapacitating
