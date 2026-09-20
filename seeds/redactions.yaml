@@ -125,6 +125,57 @@
       date: '2020-08-30T02:35:52Z'
       description: Anthony Lewis, 54, of Lafayette, Ind., was shot in the back about 8:20 p.m. while driving in the 6200 block of South Racine Avenue and died at the University of Chicago Medical Center. It was the fifth shooting in Englewood or West Englewood since 5 p.m. Friday.
 
+
+- crash_record_id: 2332d6317e7d59ccc083750c09f9a07b235e90ff3911308acdbaeec58c1f483d40fe34d0b921b1d67f84437791996e362658ae541976521cb6d3cbdded971d80
+  ignore_crash_completely: true
+  notes: |
+    appears to be a shooting
+    2020-05-31 20:00
+    936 E 93RD ST burnside
+    1 fatalities, 0 injured
+    OTHER: PHYSICAL CONDITION OF DRIVER
+    autosearch 2026-09-19: shooting-caused crash, homicide. Victim ID: Lenell Deandre McClain, 26 (record has unknown age/sex); shot by occupant of a dark Grand Prix, crashed in same block. No arrests. suntimes ~145 words.
+
+    - url: https://chicago.suntimes.com/crime/2020/5/31/21276573/man-fatally-shot-head-driving-burnside-93rd-gun-violence-lenell-deandre-mcclain
+      title: Man fatally shot in head while driving in Burnside
+      site: chicago.suntimes.com
+      date: '2020-06-01T04:19:30Z'
+      description: He was hit several times in the head and crashed his vehicle moments later on East 93rd Street.
+
+
+- crash_record_id: a5708e27edc5661fa0f26653db8e2023f680084bdfeb1bdc269e55d91360fe1e603216cacbff3ab55966d5a903c07e8eea15b6be68bbf9216bfbccfbe091bdcd
+  ignore_crash_completely: true
+
+  notes: |-
+    appears to be a shooting
+    2020-06-19 22:24
+    4158 W CONGRESS PKWY garfield park
+    1 fatalities, 0 injured
+    OTHER: NOT APPLICABLE
+    autosearch 2026-09-19: shooting-caused crash, homicide. Victim ID: Almos Collum, 33, of Austin (record has unknown age); shot from a black SUV while driving, died at Stroger. No one in custody. suntimes ~110 words.
+    - url: https://chicago.suntimes.com/crime/2020/6/19/21297488/almos-collum-killed-west-garfield-park-shooting-gun-violence-congress
+      title: Man killed in West Garfield Park shooting
+      site: chicago.suntimes.com
+      date: '2020-06-21T01:26:05Z'
+      description: Almos Collum, 33, was driving when someone approached his car and opened fire, striking him multiple times, authorities said.
+
+
+- crash_record_id: 8f0dfec5ec09389b8bcf262ff380839c9fa1c32d65cc22a5357c06f81570af0d6b1514728c845fce7298b5966da73f42eff8750996911fdad0ef8709c2df04c4
+  ignore_crash_completely: true
+  notes: |
+    2026-09-11 00:17
+    4540 S WOOD ST, new-city
+    OTHER
+    fatalities: 1 injured: 0
+    - 50 F FATAL DRIVER
+    - url: https://blockclubchicago.org/2026/09/11/city-emergency-dispatcher-fatally-shot-while-driving-in-back-of-the-yards/
+      title: City Emergency Dispatcher Fatally Shot While Driving In Back Of The Yards
+      site: Block Club Chicago
+      date: '2026-09-11T20:01:13+00:00'
+      description: Natalia Rodriguez, 50, was a police communications operator who had worked for the city's emergency management agency for a decade. No arrests have been made.
+
+
+
 ################
 # where people fatal_tally is higher than injuries_fatal value
 
